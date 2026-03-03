@@ -1,0 +1,2 @@
+# autonomous-gan-driven-trading-strategy-development
+**TITLE:** Autonomous GAN-Driven Trading Strategy Development  **DESCRIPTION:**  The AI utilizes Generative Adversarial Networks (GANs) to generate synthetic market data, enhancing its ability to train and adapt trading models. Simultaneously, a reinforcement learning framework is employed within a simulated environment to develop and test strategi
